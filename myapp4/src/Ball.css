@@ -1,0 +1,8 @@
+.Ball {
+  border: solid 2px purple;
+  width: 300px;
+  border-radius: 20px;
+}
+div.Ball h2 {
+  color: goldenrod;
+}
